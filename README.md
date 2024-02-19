@@ -13,17 +13,26 @@ Zur Zeit ist die Anwendunge [hier](https://masterarbeit-8d6a8.web.app/) zu finde
 - Durchführung und Anzeige von semantischen Analysen und detaillierten Wort-für-Wort-Vergleichen.
 
 
-
 ## Sprachübungen
 
-# Sprachübung 1: Sprache
-# Sprachübung 2: Zufällige Wörter
+### Sprachübung 1: Sprache
+### Sprachübung 2: Zufällige Wörter
 
 ## Interaktive Übungen
 
-# Interaktive Übung 1: Fotoquiz
-# Interaktive Übung 2: Wort Wirbel
-# Interaktive Übung 3: Satz Baumeister
+### Interaktive Übung 1: Fotoquiz
+
+![Fotoquiz](https://github.com/AdrianRisch/wortlaut-flutterapp/assets/50317883/fa2f1bd4-4e07-4653-97ee-7eba113656e2)
+
+### Interaktive Übung 2: Wort Wirbel
+
+![Wort Wirbel](https://github.com/AdrianRisch/wortlaut-flutterapp/assets/50317883/0e1f0c38-e9c3-4e6b-aeb5-d7061c8f9038)
+
+### Interaktive Übung 3: Satz Baumeister
+
+![Satz Baumeister](https://github.com/AdrianRisch/wortlaut-flutterapp/assets/50317883/9631acbe-cada-4856-b63c-dd762a61a7ab)
+
+
 
 ## Beitrag
 
