@@ -13,12 +13,16 @@ Zur Zeit ist die Anwendunge [hier](https://masterarbeit-8d6a8.web.app/) zu finde
 - Durchführung und Anzeige von semantischen Analysen und detaillierten Wort-für-Wort-Vergleichen.
 
 
-## Sprachübungen
+## Sprachübungen (Dark Mode)
 
-### Sprachübung 1: Sprache
+### Sprachübung 1: Sprache 
+![Sprache](https://github.com/AdrianRisch/wortlaut-flutterapp/assets/50317883/88e3ceb2-1a28-45be-8d76-942829909556)
+
 ### Sprachübung 2: Zufällige Wörter
 
-## Interaktive Übungen
+![zufällig](https://github.com/AdrianRisch/wortlaut-flutterapp/assets/50317883/8be2275d-1e8a-45a3-8914-ac4bd2fd380f)
+
+## Interaktive Übungen (Light Mode)
 
 ### Interaktive Übung 1: Fotoquiz
 
