@@ -5,6 +5,7 @@ Dieses Repository enthält das Frontend für den Flask Audio Transcription Servi
 ## Erreibarkeit der Anwendung
 
 Zur Zeit ist die Anwendunge [hier](https://masterarbeit-8d6a8.web.app/) zu finden. Für die optimale Nutzung starte zuvor den Server.
+Die Webanwendung läuft auf Google Firebase und wird dort gehostet. Manchmal kommt es beim Verwenden von Chrome zu einem Fehler, welcher sich ohne weiteres Zutun wieder behebt.
 
 ## Features
 
