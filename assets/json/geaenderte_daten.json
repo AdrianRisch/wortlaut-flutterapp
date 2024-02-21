@@ -1,0 +1,1434 @@
+[
+    {
+        "Wort": "Arzt",
+        "Satz": "Ein Arzt kümmert sich um seine Patienten.",
+        "Prompt": "Ein Arzt in weißem Kittel berät einen Patienten im Krankenhaus.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Lehrer",
+        "Satz": "Ein Lehrer erklärt den Schülern eine Aufgabe.",
+        "Prompt": "Ein Lehrer steht vor der Tafel und unterrichtet in einem Klassenzimmer.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Ingenieur",
+        "Satz": "Ein Ingenieur arbeitet an einem neuen Projekt.",
+        "Prompt": "Ein Ingenieur mit Helm betrachtet Baupläne auf einer Baustelle.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Koch",
+        "Satz": "Ein Koch bereitet ein spezielles Gericht vor.",
+        "Prompt": "Ein Koch in einer professionellen Küche zubereitend ein Gourmetgericht.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Polizist",
+        "Satz": "Ein Polizist sorgt für Sicherheit in der Stadt.",
+        "Prompt": "Ein Polizist auf Streife in einer belebten Stadtstraße.",
+        "Satzlänge": 8,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Feuerwehrmann",
+        "Satz": "Ein Feuerwehrmann löscht ein Feuer.",
+        "Prompt": "Ein Feuerwehrmann in Ausrüstung bekämpft Flammen mit einem Wasserschlauch.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 13,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Pilot",
+        "Satz": "Ein Pilot steuert ein Flugzeug.",
+        "Prompt": "Ein Pilot im Cockpit bereitet sich auf den Start eines Flugzeugs vor.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Kuenstler",
+        "Satz": "Ein Künstler malt ein neues Kunstwerk.",
+        "Prompt": "Ein Künstler vor einer Leinwand malt mit bunten Farben.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Musiker",
+        "Satz": "Ein Musiker spielt ein Konzert.",
+        "Prompt": "Ein Musiker spielt auf seiner Gitarre vor einem begeisterten Publikum.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Architekt",
+        "Satz": "Ein Architekt entwirft ein modernes Gebäude.",
+        "Prompt": "Ein Architekt arbeitet an einem Modell eines modernen Gebäudes.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Friseur",
+        "Satz": "Ein Friseur schneidet einem Kunden die Haare.",
+        "Prompt": "Ein Friseur bei der Arbeit, schneidet sorgfältig einem Kunden die Haare.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Baecker",
+        "Satz": "Ein Bäcker bäckt frische Brötchen.",
+        "Prompt": "Ein Bäcker holt frische Brötchen aus dem Ofen in einer Bäckerei.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Mechaniker",
+        "Satz": "Ein Mechaniker repariert ein Auto.",
+        "Prompt": "Ein Mechaniker arbeitet unter der Motorhaube eines Autos in der Werkstatt.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Jurist",
+        "Satz": "Ein Jurist berät zu Rechtsfragen.",
+        "Prompt": "Ein Jurist in seinem Büro, umgeben von Gesetzbüchern, berät einen Klienten.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Verkaeufer",
+        "Satz": "Ein Verkäufer hilft Kunden im Laden.",
+        "Prompt": "Ein Verkäufer berät einen Kunden in einem hellen und modernen Geschäft.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Berufe"
+    },
+    {
+        "Wort": "Stift",
+        "Satz": "Der Stift liegt auf dem Schreibtisch.",
+        "Prompt": "Ein Stift liegt auf einem organisierten Schreibtisch neben einem Notizbuch.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Radiergummi",
+        "Satz": "Der Radiergummi entfernt Fehler.",
+        "Prompt": "Ein Radiergummi liegt auf einem Blatt Papier mit Bleistiftmarkierungen.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Tacker",
+        "Satz": "Der Tacker hält die Seiten zusammen.",
+        "Prompt": "Ein Tacker auf einem Stapel von Dokumenten auf einem Bürotisch.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Notizbuch",
+        "Satz": "Das Notizbuch ist voller Ideen.",
+        "Prompt": "Ein offenes Notizbuch mit Notizen und Skizzen auf einem Schreibtisch.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Kalender",
+        "Satz": "Der Kalender zeigt wichtige Termine an.",
+        "Prompt": "Ein Wandkalender markiert mit verschiedenen Terminen und Ereignissen.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Schreibtisch",
+        "Satz": "Der Schreibtisch ist ordentlich arrangiert.",
+        "Prompt": "Ein großer, ordentlich organisierter Schreibtisch in einem hellen Büro.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 12,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Stuhl",
+        "Satz": "Der Stuhl ist bequem.",
+        "Prompt": "Ein moderner Bürostuhl vor einem Schreibtisch mit einem Computer.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Computer",
+        "Satz": "Der Computer ist das Herzstück des Büros.",
+        "Prompt": "Ein Desktop-Computer mit zwei Monitoren auf einem Schreibtisch.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Drucker",
+        "Satz": "Der Drucker produziert wichtige Dokumente.",
+        "Prompt": "Ein Multifunktionsdrucker in der Ecke eines Büros neben einem Fenster.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Papier",
+        "Satz": "Papier wird für Notizen verwendet.",
+        "Prompt": "Ein Stapel weißes Papier liegt bereit auf einem Schreibtisch neben einem Stift.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Klammer",
+        "Satz": "Die Klammer hält die Papiere zusammen.",
+        "Prompt": "Büroklammern in einer kleinen Schale auf einem organisierten Schreibtisch.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Briefoeffner",
+        "Satz": "Der Brieföffner liegt neben der Post.",
+        "Prompt": "Ein eleganter Brieföffner neben einem Stapel von Briefen auf einem Tisch.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Locher",
+        "Satz": "Der Locher ist unerlässlich für die Ablage.",
+        "Prompt": "Ein Locher steht auf einem Schreibtisch neben einem Ordner mit Dokumenten.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Marker",
+        "Satz": "Der Marker hebt wichtige Informationen hervor.",
+        "Prompt": "Leuchtmarker liegen auf einem Schreibtisch neben einigen Unterlagen.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Lineal",
+        "Satz": "Das Lineal wird für präzise Linien verwendet.",
+        "Prompt": "Ein Lineal liegt auf einem technischen Zeichnung auf einem Schreibtisch.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Büro"
+    },
+    {
+        "Wort": "Lampe",
+        "Satz": "Die Lampe spendet warmes Licht.",
+        "Prompt": "Eine eingeschaltete Lampe auf einem Nachttisch neben einem gemütlichen Bett.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Stuhl",
+        "Satz": "Der Stuhl steht neben dem Tisch.",
+        "Prompt": "Ein hölzerner Stuhl steht neben einem rustikalen Esstisch.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Tisch",
+        "Satz": "Auf dem Tisch steht eine Vase.",
+        "Prompt": "Ein großer Tisch mit einer blühenden Vase in der Mitte eines Esszimmers.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Bett",
+        "Satz": "Das Bett ist frisch bezogen.",
+        "Prompt": "Ein frisch bezogenes Bett in einem hellen, einladenden Schlafzimmer.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Sofa",
+        "Satz": "Das Sofa lädt zum Entspannen ein.",
+        "Prompt": "Ein gemütliches Sofa mit Kissen in einem modernen Wohnzimmer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Spiegel",
+        "Satz": "Der Spiegel hängt an der Wand.",
+        "Prompt": "Ein großer Spiegel hängt an der Wand eines stilvollen Badezimmers.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Teppich",
+        "Satz": "Der Teppich ist weich.",
+        "Prompt": "Ein bunter, flauschiger Teppich liegt in der Mitte eines Kinderzimmers.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Fernseher",
+        "Satz": "Der Fernseher läuft den ganzen Abend.",
+        "Prompt": "Ein großer Flachbildfernseher zeigt einen Film in einem dunklen Wohnzimmer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Kuehlschrank",
+        "Satz": "Der Kühlschrank ist voll mit Lebensmitteln.",
+        "Prompt": "Ein offener Kühlschrank, gefüllt mit frischen Lebensmitteln und Getränken.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Mikrowelle",
+        "Satz": "Die Mikrowelle erwärmt das Essen schnell.",
+        "Prompt": "Eine Mikrowelle auf der Küchenarbeitsplatte mit einem Teller darin.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Waschmaschine",
+        "Satz": "Die Waschmaschine läuft am Wochenende.",
+        "Prompt": "Eine Waschmaschine voller Wäsche in einem hellen Waschraum.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 13,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Trockner",
+        "Satz": "Der Trockner macht die Wäsche weich.",
+        "Prompt": "Ein Wäschetrockner in Betrieb in einem sauberen Wäscheraum.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Staubsauger",
+        "Satz": "Der Staubsauger reinigt den Teppich.",
+        "Prompt": "Ein Staubsauger in Aktion, während er einen Teppich in einem Wohnzimmer reinigt.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Buegeleisen",
+        "Satz": "Das Bügeleisen glättet die Falten.",
+        "Prompt": "Ein heißes Bügeleisen auf einem Bügelbrett mit einem Hemd darauf.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Mixer",
+        "Satz": "Der Mixer bereitet Smoothies zu.",
+        "Prompt": "Ein Mixer auf einer Küchenarbeitsplatte, umgeben von frischem Obst für Smoothies.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Haushaltsgegenstände"
+    },
+    {
+        "Wort": "Schuhe",
+        "Satz": "Die Schuhe stehen der.",
+        "Prompt": "Ein Paar Schuhe ordentlich vor einer Haustür platziert.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Hose",
+        "Satz": "Die Hose hängt im Schrank.",
+        "Prompt": "Eine Hose hängt sauber auf einem Kleiderbügel im Schrank.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Hemd",
+        "Satz": "Das Hemd wurde frisch gebügelt.",
+        "Prompt": "Ein frisch gebügeltes Hemd liegt auf dem Bügelbrett.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Kleid",
+        "Satz": "Das Kleid ist für den Ball gedacht.",
+        "Prompt": "Ein elegantes Kleid hängt bereit für einen abendlichen Ball.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Rock",
+        "Satz": "Der Rock passt perfekt.",
+        "Prompt": "Ein modischer Rock auf einer Schaufensterpuppe in einem Bekleidungsgeschäft.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Jacke",
+        "Satz": "Die Jacke hält warm im Winter.",
+        "Prompt": "Eine dicke Winterjacke aufgehängt an einem kalten, verschneiten Tag.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Muetze",
+        "Satz": "Die Mütze liegt auf dem Tisch.",
+        "Prompt": "Eine gestrickte Mütze liegt auf einem Holztisch neben einem Fenster.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Schal",
+        "Satz": "Der Schal ist bunt gestreift.",
+        "Prompt": "Ein bunter gestreifter Schal drapiert über einer Stuhllehne.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Handschuhe",
+        "Satz": "Handschuhe sind wichtig beim Skifahren.",
+        "Prompt": "Ein Paar Skihandschuhe liegt bereit auf einer Holzbank im Schnee.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Socken",
+        "Satz": "Die Socken sind warm.",
+        "Prompt": "Weiche, warme Socken auf einem gemütlichen Teppichboden.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Unterwaesche",
+        "Satz": "Neue Unterwäsche wurde gekauft.",
+        "Prompt": "Neue Unterwäsche ordentlich gefaltet in einer Schublade.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Badeanzug",
+        "Satz": "Der Badeanzug trocknet in der Sonne.",
+        "Prompt": "Ein Badeanzug hängt zum Trocknen an einer Wäscheleine im Sommer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Anzug",
+        "Satz": "Der Anzug ist für das Vorstellungsgespräch.",
+        "Prompt": "Ein Geschäftsmann zieht einen eleganten Anzug für ein Vorstellungsgespräch an.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Pullover",
+        "Satz": "Der Pullover ist zu groß.",
+        "Prompt": "Ein zu großer Pullover liegt auf einem Sessel in einem gemütlichen Raum.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "T-Shirt",
+        "Satz": "Das T-Shirt hat ein lustiges Motiv.",
+        "Prompt": "Ein T-Shirt mit einem lustigen Aufdruck auf einem Kleiderständer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Kleidung"
+    },
+    {
+        "Wort": "Pfanne",
+        "Satz": "Die Pfanne ist heiß auf dem Herd.",
+        "Prompt": "Eine heiße Pfanne auf einem eingeschalteten Gasherd mit Öl bereit zum Braten.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Topf",
+        "Satz": "Der Topf kocht auf dem Feuer.",
+        "Prompt": "Ein großer Topf mit kochendem Wasser auf einem lebhaften Feuer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Messer",
+        "Satz": "Das Messer ist scharf.",
+        "Prompt": "Ein scharfes Küchenmesser schneidet durch frisches Gemüse auf einem Schneidebrett.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Gabel",
+        "Satz": "Die Gabel liegt neben dem Teller.",
+        "Prompt": "Eine glänzende Gabel ordentlich platziert neben einem Porzellanteller.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Loeffel",
+        "Satz": "Der Löffel rührt in der Suppe.",
+        "Prompt": "Ein großer Löffel rührt in einem Topf mit dampfender Suppe.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Schneidebrett",
+        "Satz": "Das Schneidebrett ist aus Holz.",
+        "Prompt": "Ein robustes Holzschneidebrett bereit für die Zubereitung von Lebensmitteln.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 13,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Mixer",
+        "Satz": "Der Mixer zerkleinert die Zutaten.",
+        "Prompt": "Ein leistungsstarker Mixer verarbeitet Obst und Gemüse zu einem Smoothie.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Ofen",
+        "Satz": "Der Ofen backt einen Kuchen.",
+        "Prompt": "Ein moderner Ofen backt einen Kuchen, sichtbar durch das Glasfenster.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Grill",
+        "Satz": "Der Grill ist für das Barbecue bereit.",
+        "Prompt": "Ein Außengrill beladen mit Fleisch und Gemüse für ein Barbecue.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Kochloeffel",
+        "Satz": "Der Kochlöffel liegt auf dem Küchenregal.",
+        "Prompt": "Ein hölzerner Kochlöffel ruht auf einem stilvollen Küchenregal.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Schuessel",
+        "Satz": "Die Schüssel ist voll mit Salat.",
+        "Prompt": "Eine große Schüssel gefüllt mit einem frischen, bunten Salat.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Sieb",
+        "Satz": "Das Sieb trennt Flüssigkeit von Feststoffen.",
+        "Prompt": "Ein feinmaschiges Sieb hält Pasta, während das Wasser abfließt.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Dampfgarer",
+        "Satz": "Der Dampfgarer bereitet Gemüse zu.",
+        "Prompt": "Ein elektrischer Dampfgarer mit Ebenen für Gemüse und Fisch.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Kuechenwaage",
+        "Satz": "Die Küchenwaage misst die Zutaten genau.",
+        "Prompt": "Eine digitale Küchenwaage mit abgemessenen Backzutaten darauf.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Backform",
+        "Satz": "Die Backform ist für den Kuchen.",
+        "Prompt": "Eine runde Backform, eingefettet und bereit für den Kuchenteig.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Kochen"
+    },
+    {
+        "Wort": "Gitarre",
+        "Satz": "Eine Gitarre lehnt an der Wand.",
+        "Prompt": "Eine akustische Gitarre lehnt neben einem Fenster in einem sonnendurchfluteten Raum.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Klavier",
+        "Satz": "Das Klavier wartet auf seinen Spieler.",
+        "Prompt": "Ein glänzendes schwarzes Piano steht bereit in einem eleganten Musikzimmer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Schlagzeug",
+        "Satz": "Das Schlagzeug steht auf der Bühne bereit.",
+        "Prompt": "Ein Schlagzeug komplett aufgebaut auf einer Bühne vor einem Konzert.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Violine",
+        "Satz": "Die Violine erzeugt wunderschöne Melodien.",
+        "Prompt": "Eine Violine liegt auf einem alten Holztisch neben Notenblättern.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Floete",
+        "Satz": "Eine Flöte klingt schön",
+        "Prompt": "Eine Querflöte liegt auf einem samtbezogenen Kasten in einem ruhigen Raum.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Saxophon",
+        "Satz": "Das Saxophon heizt die Atmosphäre auf.",
+        "Prompt": "Ein glänzendes Saxophon steht im Rampenlicht auf einer Jazzbühne.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Trompete",
+        "Satz": "Die Trompete gibt das Signal.",
+        "Prompt": "Eine Trompete in den Händen eines Spielers, bereit für das erste Signal.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Cello",
+        "Satz": "Das Cello hat einen tiefen Klang.",
+        "Prompt": "Ein Cello wartet in einem stillen Raum, beleuchtet durch das Fensterlicht.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Klarinette",
+        "Satz": "Die Klarinette fügt dem Orchester Klarheit bei.",
+        "Prompt": "Eine Klarinette liegt auf einem Ständer neben einem Notenständer.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Harfe",
+        "Satz": "Die Harfe spielt himmlische Melodien.",
+        "Prompt": "Eine goldene Harfe steht in der Ecke eines hellen Raumes.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Akkordeon",
+        "Satz": "Das Akkordeon bringt Leben in die Volksmusik.",
+        "Prompt": "Ein Akkordeon bereit für ein Fest, platziert auf einem rustikalen Tisch.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Ukulele",
+        "Satz": "Die Ukulele bringt Freude mit ihren Klängen.",
+        "Prompt": "Eine bunte Ukulele liegt auf einem Sandstrand nahe dem Meer.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Mundharmonika",
+        "Satz": "Die Mundharmonika klingt schön",
+        "Prompt": "Eine Mundharmonika liegt auf einem Felsen im Freien, umgeben von Natur.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 13,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Kontrabass",
+        "Satz": "Der Kontrabass gibt den Rhythmus vor.",
+        "Prompt": "Ein Kontrabass steht im Mittelpunkt eines Jazzclubs, umgeben von Musikern.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Blockfloete",
+        "Satz": "Die Blockflöte ist ein Einstiegsinstrument.",
+        "Prompt": "Eine Blockflöte liegt auf einem Schreibtisch, neben einem offenen Notenbuch.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Musikinstrumente"
+    },
+    {
+        "Wort": "Apfel",
+        "Satz": "Ein Apfel liegt auf dem Küchentisch.",
+        "Prompt": "Ein frischer roter Apfel liegt auf einem Holzküchentisch.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Banane",
+        "Satz": "Eine Banane wird zum Frühstück gegessen.",
+        "Prompt": "Eine geschälte Banane auf einem Frühstücksteller.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Karotte",
+        "Satz": "Karotten werden für den Salat geschnitten.",
+        "Prompt": "Frische Karotten werden auf einem Schneidebrett geschnitten.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Pizza",
+        "Satz": "Eine Pizza wird im Ofen gebacken.",
+        "Prompt": "Eine heiße Pizza mit schmelzendem Käse im Ofen.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Kuchen",
+        "Satz": "Ein Kuchen steht zum Abkühlen auf dem Gitter.",
+        "Prompt": "Ein frisch gebackener Kuchen auf einem Kühlgestell.",
+        "Satzlänge": 8,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Brot",
+        "Satz": "Frisches Brot wird am Morgen gebacken.",
+        "Prompt": "Ein Laib frisches Brot kommt aus dem Ofen.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Ei",
+        "Satz": "Ein Ei wird zum Frühstück gebraten.",
+        "Prompt": "Ein Spiegelei brät in einer Pfanne.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 2,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Kaese",
+        "Satz": "Käse wird über die Pasta gestreut.",
+        "Prompt": "Frisch geriebener Käse wird über einen Teller Pasta gestreut.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Tomate",
+        "Satz": "Tomaten werden für die Sauce zerkleinert.",
+        "Prompt": "Frische Tomaten werden für eine hausgemachte Sauce zerkleinert.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Gurke",
+        "Satz": "Eine Gurke wird für den Salat geschnitten.",
+        "Prompt": "Frische Gurkenscheiben auf einem Schneidebrett für einen Salat.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Schokolade",
+        "Satz": "Schokolade schmilzt in der Pfanne.",
+        "Prompt": "Dunkle Schokolade schmilzt langsam in einer kleinen Pfanne.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Nudeln",
+        "Satz": "Nudeln kochen im Topf.",
+        "Prompt": "Ein Topf mit kochenden Nudeln auf dem Herd.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Reis",
+        "Satz": "Reis wird im Reiskocher zubereitet.",
+        "Prompt": "Dampfender Reis wird in einem elektrischen Reiskocher zubereitet.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Huhn",
+        "Satz": "Huhn wird für das Abendessen gebraten.",
+        "Prompt": "Ein ganzes Huhn brät goldbraun im Ofen.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Fisch",
+        "Satz": "Fisch wird mit Zitrone gebacken.",
+        "Prompt": "Frischer Fisch, bereit zum Backen, garniert mit Zitrone und Kräutern.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Nahrungsmittel"
+    },
+    {
+        "Wort": "Baum",
+        "Satz": "Ein Baum wächst im Garten.",
+        "Prompt": "Ein großer Baum steht stolz in der Mitte eines sonnigen Gartens.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Fluss",
+        "Satz": "Ein Fluss fließt durch das Tal.",
+        "Prompt": "Ein klarer Fluss schlängelt sich durch ein grünes Tal.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Berg",
+        "Satz": "Ein Berg ragt in den Himmel.",
+        "Prompt": "Ein majestätischer Berg mit schneebedecktem Gipfel unter einem klaren blauen Himmel.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "See",
+        "Satz": "Ein See liegt ruhig im Wald.",
+        "Prompt": "Ein ruhiger See umgeben von dichten Wäldern reflektiert den Himmel.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Wald",
+        "Satz": "Ein Wald ist voller Leben.",
+        "Prompt": "Ein dichter Wald im vollen Grün, durchbrochen von Sonnenstrahlen.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Blume",
+        "Satz": "Eine Blume blüht im Frühling.",
+        "Prompt": "Eine bunte Blume in voller Blüte steht im Zentrum eines blühenden Gartens.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Strand",
+        "Satz": "Ein Strand mit feinem Sand.",
+        "Prompt": "Ein idyllischer Strand mit weißem Sand und klarem blauen Wasser.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Wiese",
+        "Satz": "Eine Wiese voller Wildblumen.",
+        "Prompt": "Eine leuchtende Wiese übersät mit Wildblumen unter einem blauen Himmel.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Huegel",
+        "Satz": "Hügel formen die Landschaft.",
+        "Prompt": "Sanfte Hügel bedeckt mit grünem Gras unter einem weiten Himmel.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Tal",
+        "Satz": "Ein Tal zwischen den Bergen.",
+        "Prompt": "Ein fruchtbares Tal umgeben von hohen Bergen bei Sonnenaufgang.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Ozean",
+        "Satz": "Der Ozean erstreckt sich bis zum Horizont.",
+        "Prompt": "Der endlose Ozean trifft auf einen dramatischen Himmel bei Sonnenuntergang.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Gletscher",
+        "Satz": "Ein Gletscher bewegt sich langsam vorwärts.",
+        "Prompt": "Ein mächtiger Gletscher schlängelt sich durch die Berglandschaft.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Vulkan",
+        "Satz": "Ein Vulkan brodelt ruhig.",
+        "Prompt": "Ein schlafender Vulkan ragt in eine wolkenverhangene Landschaft.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Wueste",
+        "Satz": "Die Wüste ist tagsüber heiß und nachts kalt.",
+        "Prompt": "Die endlose Wüste unter einem glühenden Sonnenuntergang.",
+        "Satzlänge": 8,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Insel",
+        "Satz": "Eine Insel umgeben von klarem Wasser.",
+        "Prompt": "Eine tropische Insel umgeben von kristallklarem Wasser und Korallenriffen.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Natur"
+    },
+    {
+        "Wort": "Fussball",
+        "Satz": "Fußball wird weltweit gespielt.",
+        "Prompt": "Kinder spielen Fußball auf einem staubigen Feld bei Sonnenuntergang.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Basketball",
+        "Satz": "Basketball erfordert Geschicklichkeit und Präzision.",
+        "Prompt": "Ein Basketballspieler wirft den Ball auf einen städtischen Basketballplatz.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Schwimmen",
+        "Satz": "Schwimmen ist eine ausgezeichnete Übung.",
+        "Prompt": "Ein Schwimmer zieht Bahnen in einem olympischen Pool.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Laufen",
+        "Satz": "Laufen hält das Herz gesund.",
+        "Prompt": "Ein Läufer joggt auf einem Waldweg im Herbst.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Radfahren",
+        "Satz": "Radfahren ist umweltfreundlich und effizient.",
+        "Prompt": "Ein Radfahrer fährt auf einer malerischen Landstraße.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Tennis",
+        "Satz": "Tennis erfordert Schnelligkeit und Ausdauer.",
+        "Prompt": "Zwei Tennisspieler in einem intensiven Match auf einem Hartplatz.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Golf",
+        "Satz": "Golf wird auf einem großen Golfplatz gespielt.",
+        "Prompt": "Ein Golfer schwingt auf einem sonnigen Golfplatz.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Reiten",
+        "Satz": "Reiten entwickelt Vertrauen zwischen Mensch und Tier.",
+        "Prompt": "Ein Reiter auf einem Pferd galoppiert über ein offenes Feld.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Ski",
+        "Satz": "Ski fahren macht im Schnee am meisten Spaß.",
+        "Prompt": "Ein Skifahrer saust einen verschneiten Hang hinunter.",
+        "Satzlänge": 8,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Snowboard",
+        "Satz": "Snowboarden ist eine beliebte Wintersportart.",
+        "Prompt": "Ein Snowboarder führt einen Sprung in einem Schneepark durch.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Volleyball",
+        "Satz": "Volleyball kann am Strand gespielt werden",
+        "Prompt": "Ein Beachvolleyballspiel auf einem sonnigen Strand.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Tischtennis",
+        "Satz": "Tischtennis erfordert schnelle Reflexe.",
+        "Prompt": "Zwei Spieler in einem hitzigen Tischtennismatch.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Badminton",
+        "Satz": "Badminton ist ein schnelles Rückschlagspiel.",
+        "Prompt": "Spieler tauschen beim Badminton schnelle Schläge aus.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Rugby",
+        "Satz": "Rugby ist für seine Härte bekannt.",
+        "Prompt": "Ein Rugbyteam in Aktion während eines Spiels unter Flutlicht.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Boxen",
+        "Satz": "Boxen erfordert Kraft.",
+        "Prompt": "Zwei Boxer im Ring während eines intensiven Kampfes.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Sportarten"
+    },
+    {
+        "Wort": "Katze",
+        "Satz": "Eine Katze schläft auf dem Sofa.",
+        "Prompt": "Eine Katze schläft auf einem Sofa in einem gemütlichen Zimmer.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Hund",
+        "Satz": "Ein Hund spielt im Garten.",
+        "Prompt": "Ein Hund spielt fröhlich in einem sonnigen Garten.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Pferd",
+        "Satz": "Ein Pferd grast auf einer Wiese.",
+        "Prompt": "Ein Pferd grast friedlich auf einer grünen Wiese unter blauem Himmel.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Hase",
+        "Satz": "Ein Hase hüpft im Gras.",
+        "Prompt": "Ein flauschiges Kaninchen hüpft neugierig im grünen Gras.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Fisch",
+        "Satz": "Ein Fisch schwimmt im Aquarium.",
+        "Prompt": "Ein bunter Fisch schwimmt elegant in einem beleuchteten Aquarium.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Vogel",
+        "Satz": "Ein Vogel singt auf dem Baum.",
+        "Prompt": "Ein kleiner Vogel singt melodisch auf dem Ast eines blühenden Baums.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Schmetterling",
+        "Satz": "Ein Schmetterling landet auf einer Blume.",
+        "Prompt": "Ein bunter Schmetterling landet sanft auf einer blühenden Blume im Sonnenlicht.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 13,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Elefant",
+        "Satz": "Ein Elefant badet im Fluss.",
+        "Prompt": "Ein großer Elefant genießt ein erfrischendes Bad in einem breiten Fluss.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Tiger",
+        "Satz": "Ein Tiger schleicht durch den Dschungel.",
+        "Prompt": "Ein majestätischer Tiger schleicht leise durch den dichten Dschungel.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Baer",
+        "Satz": "Ein Bär sucht nach Honig.",
+        "Prompt": "Ein neugieriger Bär sucht in einem Wald nach einem Bienenstock mit Honig.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Frosch",
+        "Satz": "Ein Frosch sitzt auf einem Seerosenblatt.",
+        "Prompt": "Ein grüner Frosch sitzt ruhig auf einem Seerosenblatt in einem Teich.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Eule",
+        "Satz": "Eine Eule ruft in der Nacht.",
+        "Prompt": "Eine weise Eule ruft von einem Baumast aus in einer klaren Nacht.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Hai",
+        "Satz": "Ein Hai schwimmt durch das tiefe Meer.",
+        "Prompt": "Ein beeindruckender Hai gleitet majestätisch durch das dunkelblaue Meer.",
+        "Satzlänge": 7,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Giraffe",
+        "Satz": "Eine Giraffe frisst Blätter von einem hohen Baum.",
+        "Prompt": "Eine hohe Giraffe frisst genüsslich Blätter von der Spitze eines Baumes in der Savanne.",
+        "Satzlänge": 8,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Zebra",
+        "Satz": "Ein Zebra trinkt Wasser am Fluss.",
+        "Prompt": "Ein Zebra beugt sich vorsichtig zum Trinken an einem Fluss in der afrikanischen Wildnis.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Tiere"
+    },
+    {
+        "Wort": "Auto",
+        "Satz": "Ein Auto fährt.",
+        "Prompt": "Ein Auto auf der Straße.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Fahrrad",
+        "Satz": "Ein Fahrrad steht da.",
+        "Prompt": "Ein Fahrrad am Straßenrand.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Bus",
+        "Satz": "Ein Bus hält an.",
+        "Prompt": "Ein Bus an der Haltestelle.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Zug",
+        "Satz": "Ein Zug fährt ab.",
+        "Prompt": "Ein Zug verlässt den Bahnhof.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Flugzeug",
+        "Satz": "Ein Flugzeug fliegt.",
+        "Prompt": "Ein Flugzeug am Himmel.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Motorrad",
+        "Satz": "Ein Motorrad fährt die Straße entlang.",
+        "Prompt": "Ein Motorrad fährt schnell auf einer kurvigen Landstraße.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Roller",
+        "Satz": "Ein Roller steht auf dem Bürgersteig.",
+        "Prompt": "Ein elektrischer Roller geparkt auf einem städtischen Bürgersteig.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "U-Bahn",
+        "Satz": "Eine U-Bahn fährt los.",
+        "Prompt": "Eine U-Bahn fährt vom Bahnsteig ab",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Traktor",
+        "Satz": "Ein Traktor arbeitet auf dem Feld.",
+        "Prompt": "Ein Traktor pflügt ein Feld auf dem Land bei Sonnenaufgang.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 7,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Segelboot",
+        "Satz": "Ein Segelboot gleitet über das Wasser.",
+        "Prompt": "Ein kleines Segelboot gleitet sanft über einen ruhigen See.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 9,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Heissluftballon",
+        "Satz": "Ein Heißluftballon schwebt am Himmel.",
+        "Prompt": "Ein bunter Heißluftballon schwebt hoch im Himmel über einer Landschaft.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 14,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Rakete",
+        "Satz": "Eine Rakete startet ins Weltall.",
+        "Prompt": "Eine Rakete startet mit voller Kraft von einer Startrampe ins Weltall.",
+        "Satzlänge": 5,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Helikopter",
+        "Satz": "Ein Helikopter landet.",
+        "Prompt": "Ein Helikopter im Landeanflug auf einem Hubschrauberlandeplatz in der Stadt.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Fahrradtaxi",
+        "Satz": "Ein Fahrradtaxi fährt durch die Altstadt.",
+        "Prompt": "Ein Fahrradtaxi navigiert geschickt durch die engen Straßen einer historischen Altstadt.",
+        "Satzlänge": 6,
+        "Buchstabenlänge": 11,
+        "Kategorie": "Transportmittel"
+    },
+    {
+        "Wort": "Regen",
+        "Satz": "Es regnet draußen.",
+        "Prompt": "Regentropfen auf einem Fenster.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Sonne",
+        "Satz": "Die Sonne scheint.",
+        "Prompt": "Sonnenschein über einem Feld.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Schnee",
+        "Satz": "Schnee fällt.",
+        "Prompt": "Eine Schneedecke auf den Straßen.",
+        "Satzlänge": 2,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Wind",
+        "Satz": "Der Wind weht.",
+        "Prompt": "Blätter fliegen im Wind.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 4,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Nebel",
+        "Satz": "Nebel bedeckt alles.",
+        "Prompt": "Eine neblige Straße am Morgen.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Gewitter",
+        "Satz": "Ein Gewitter kommt.",
+        "Prompt": "Blitze am dunklen Himmel.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 8,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Eis",
+        "Satz": "Eis auf dem See.",
+        "Prompt": "Ein zugefrorener See.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Kaelte",
+        "Satz": "Es ist sehr kalt.",
+        "Prompt": "Atem in der kalten Luft.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Hitze",
+        "Satz": "Es ist sehr heiß.",
+        "Prompt": "Die Wüste unter der Mittagssonne.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Wolken",
+        "Satz": "Der Himmel ist bewölkt.",
+        "Prompt": "Viele Wolken am Himmel.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 6,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Sturm",
+        "Satz": "Ein Sturm zieht auf.",
+        "Prompt": "Sturmwolken über dem Land.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Hagel",
+        "Satz": "Hagelkörner fallen.",
+        "Prompt": "Hagel schlägt auf den Boden.",
+        "Satzlänge": 2,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Tau",
+        "Satz": "Tau glitzert morgens.",
+        "Prompt": "Tau auf Gräsern.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 3,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Frost",
+        "Satz": "Frost bedeckt alles.",
+        "Prompt": "Frostige Fensterscheiben.",
+        "Satzlänge": 3,
+        "Buchstabenlänge": 5,
+        "Kategorie": "Wetter"
+    },
+    {
+        "Wort": "Regenbogen",
+        "Satz": "Ein Regenbogen zeigt sich.",
+        "Prompt": "Ein Regenbogen nach dem Regen.",
+        "Satzlänge": 4,
+        "Buchstabenlänge": 10,
+        "Kategorie": "Wetter"
+    }
+]

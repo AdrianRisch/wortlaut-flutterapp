@@ -1,0 +1,109 @@
+{
+    "Sportarten": [
+        {
+            "Wort": "Fußball",
+            "Satz": "Fußball wird weltweit gespielt.",
+            "Prompt": "Kinder spielen Fußball auf einem staubigen Feld bei Sonnenuntergang.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Basketball",
+            "Satz": "Basketball erfordert Geschicklichkeit und Präzision.",
+            "Prompt": "Ein Basketballspieler wirft den Ball auf einen städtischen Basketballplatz.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Schwimmen",
+            "Satz": "Schwimmen ist eine ausgezeichnete Übung.",
+            "Prompt": "Ein Schwimmer zieht Bahnen in einem olympischen Pool.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Laufen",
+            "Satz": "Laufen hält das Herz gesund.",
+            "Prompt": "Ein Läufer joggt auf einem Waldweg im Herbst.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Radfahren",
+            "Satz": "Radfahren ist umweltfreundlich und effizient.",
+            "Prompt": "Ein Radfahrer fährt auf einer malerischen Landstraße.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Tennis",
+            "Satz": "Tennis erfordert Schnelligkeit und Ausdauer.",
+            "Prompt": "Zwei Tennisspieler in einem intensiven Match auf einem Hartplatz.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Golf",
+            "Satz": "Golf wird auf einem großen Golfplatz gespielt.",
+            "Prompt": "Ein Golfer schwingt auf einem sonnigen Golfplatz.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Reiten",
+            "Satz": "Reiten entwickelt Vertrauen zwischen Mensch und Tier.",
+            "Prompt": "Ein Reiter auf einem Pferd galoppiert über ein offenes Feld.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Ski",
+            "Satz": "Ski fahren macht im Schnee am meisten Spaß.",
+            "Prompt": "Ein Skifahrer saust einen verschneiten Hang hinunter.",
+            "Satzlänge": 8,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Snowboard",
+            "Satz": "Snowboarden ist eine beliebte Wintersportart.",
+            "Prompt": "Ein Snowboarder führt einen Sprung in einem Schneepark durch.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Volleyball",
+            "Satz": "Volleyball kann am Strand gespielt werden",
+            "Prompt": "Ein Beachvolleyballspiel auf einem sonnigen Strand.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Tischtennis",
+            "Satz": "Tischtennis erfordert schnelle Reflexe.",
+            "Prompt": "Zwei Spieler in einem hitzigen Tischtennismatch.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Badminton",
+            "Satz": "Badminton ist ein schnelles Rückschlagspiel.",
+            "Prompt": "Spieler tauschen beim Badminton schnelle Schläge aus.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Rugby",
+            "Satz": "Rugby ist für seine Härte bekannt.",
+            "Prompt": "Ein Rugbyteam in Aktion während eines Spiels unter Flutlicht.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Boxen",
+            "Satz": "Boxen erfordert Kraft.",
+            "Prompt": "Zwei Boxer im Ring während eines intensiven Kampfes.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 5
+        }
+    ]
+}

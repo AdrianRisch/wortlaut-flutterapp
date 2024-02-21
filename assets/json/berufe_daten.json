@@ -1,0 +1,109 @@
+{
+    "Berufe": [
+        {
+            "Wort": "Arzt",
+            "Satz": "Ein Arzt kümmert sich um seine Patienten.",
+            "Prompt": "Ein Arzt in weißem Kittel berät einen Patienten im Krankenhaus.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Lehrer",
+            "Satz": "Ein Lehrer erklärt den Schülern eine Aufgabe.",
+            "Prompt": "Ein Lehrer steht vor der Tafel und unterrichtet in einem Klassenzimmer.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Ingenieur",
+            "Satz": "Ein Ingenieur arbeitet an einem neuen Projekt.",
+            "Prompt": "Ein Ingenieur mit Helm betrachtet Baupläne auf einer Baustelle.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Koch",
+            "Satz": "Ein Koch bereitet ein spezielles Gericht vor.",
+            "Prompt": "Ein Koch in einer professionellen Küche zubereitend ein Gourmetgericht.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Polizist",
+            "Satz": "Ein Polizist sorgt für Sicherheit in der Stadt.",
+            "Prompt": "Ein Polizist auf Streife in einer belebten Stadtstraße.",
+            "Satzlänge": 8,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Feuerwehrmann",
+            "Satz": "Ein Feuerwehrmann löscht ein Feuer.",
+            "Prompt": "Ein Feuerwehrmann in Ausrüstung bekämpft Flammen mit einem Wasserschlauch.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 13
+        },
+        {
+            "Wort": "Pilot",
+            "Satz": "Ein Pilot steuert ein Flugzeug.",
+            "Prompt": "Ein Pilot im Cockpit bereitet sich auf den Start eines Flugzeugs vor.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Künstler",
+            "Satz": "Ein Künstler malt ein neues Kunstwerk.",
+            "Prompt": "Ein Künstler vor einer Leinwand malt mit bunten Farben.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Musiker",
+            "Satz": "Ein Musiker spielt ein Konzert.",
+            "Prompt": "Ein Musiker spielt auf seiner Gitarre vor einem begeisterten Publikum.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Architekt",
+            "Satz": "Ein Architekt entwirft ein modernes Gebäude.",
+            "Prompt": "Ein Architekt arbeitet an einem Modell eines modernen Gebäudes.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Friseur",
+            "Satz": "Ein Friseur schneidet einem Kunden die Haare.",
+            "Prompt": "Ein Friseur bei der Arbeit, schneidet sorgfältig einem Kunden die Haare.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Bäcker",
+            "Satz": "Ein Bäcker bäckt frische Brötchen.",
+            "Prompt": "Ein Bäcker holt frische Brötchen aus dem Ofen in einer Bäckerei.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Mechaniker",
+            "Satz": "Ein Mechaniker repariert ein Auto.",
+            "Prompt": "Ein Mechaniker arbeitet unter der Motorhaube eines Autos in der Werkstatt.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Jurist",
+            "Satz": "Ein Jurist berät zu Rechtsfragen.",
+            "Prompt": "Ein Jurist in seinem Büro, umgeben von Gesetzbüchern, berät einen Klienten.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Verkäufer",
+            "Satz": "Ein Verkäufer hilft Kunden im Laden.",
+            "Prompt": "Ein Verkäufer berät einen Kunden in einem hellen und modernen Geschäft.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 9
+        }
+    ]
+}

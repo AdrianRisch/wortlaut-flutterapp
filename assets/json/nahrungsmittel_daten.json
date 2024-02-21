@@ -1,0 +1,109 @@
+{
+    "Nahrungsmittel": [
+        {
+            "Wort": "Apfel",
+            "Satz": "Ein Apfel liegt auf dem Küchentisch.",
+            "Prompt": "Ein frischer roter Apfel liegt auf einem Holzküchentisch.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Banane",
+            "Satz": "Eine Banane wird zum Frühstück gegessen.",
+            "Prompt": "Eine geschälte Banane auf einem Frühstücksteller.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Karotte",
+            "Satz": "Karotten werden für den Salat geschnitten.",
+            "Prompt": "Frische Karotten werden auf einem Schneidebrett geschnitten.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Pizza",
+            "Satz": "Eine Pizza wird im Ofen gebacken.",
+            "Prompt": "Eine heiße Pizza mit schmelzendem Käse im Ofen.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Kuchen",
+            "Satz": "Ein Kuchen steht zum Abkühlen auf dem Gitter.",
+            "Prompt": "Ein frisch gebackener Kuchen auf einem Kühlgestell.",
+            "Satzlänge": 8,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Brot",
+            "Satz": "Frisches Brot wird am Morgen gebacken.",
+            "Prompt": "Ein Laib frisches Brot kommt aus dem Ofen.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Ei",
+            "Satz": "Ein Ei wird zum Frühstück gebraten.",
+            "Prompt": "Ein Spiegelei brät in einer Pfanne.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 2
+        },
+        {
+            "Wort": "Käse",
+            "Satz": "Käse wird über die Pasta gestreut.",
+            "Prompt": "Frisch geriebener Käse wird über einen Teller Pasta gestreut.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Tomate",
+            "Satz": "Tomaten werden für die Sauce zerkleinert.",
+            "Prompt": "Frische Tomaten werden für eine hausgemachte Sauce zerkleinert.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Gurke",
+            "Satz": "Eine Gurke wird für den Salat geschnitten.",
+            "Prompt": "Frische Gurkenscheiben auf einem Schneidebrett für einen Salat.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Schokolade",
+            "Satz": "Schokolade schmilzt in der Pfanne.",
+            "Prompt": "Dunkle Schokolade schmilzt langsam in einer kleinen Pfanne.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Nudeln",
+            "Satz": "Nudeln kochen im Topf.",
+            "Prompt": "Ein Topf mit kochenden Nudeln auf dem Herd.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Reis",
+            "Satz": "Reis wird im Reiskocher zubereitet.",
+            "Prompt": "Dampfender Reis wird in einem elektrischen Reiskocher zubereitet.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Huhn",
+            "Satz": "Huhn wird für das Abendessen gebraten.",
+            "Prompt": "Ein ganzes Huhn brät goldbraun im Ofen.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Fisch",
+            "Satz": "Fisch wird mit Zitrone gebacken.",
+            "Prompt": "Frischer Fisch, bereit zum Backen, garniert mit Zitrone und Kräutern.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        }
+    ]
+}

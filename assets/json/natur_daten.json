@@ -1,0 +1,109 @@
+{
+    "Natur": [
+        {
+            "Wort": "Baum",
+            "Satz": "Ein Baum wächst im Garten.",
+            "Prompt": "Ein großer Baum steht stolz in der Mitte eines sonnigen Gartens.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Fluss",
+            "Satz": "Ein Fluss fließt durch das Tal.",
+            "Prompt": "Ein klarer Fluss schlängelt sich durch ein grünes Tal.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Berg",
+            "Satz": "Ein Berg ragt in den Himmel.",
+            "Prompt": "Ein majestätischer Berg mit schneebedecktem Gipfel unter einem klaren blauen Himmel.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "See",
+            "Satz": "Ein See liegt ruhig im Wald.",
+            "Prompt": "Ein ruhiger See umgeben von dichten Wäldern reflektiert den Himmel.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Wald",
+            "Satz": "Ein Wald ist voller Leben.",
+            "Prompt": "Ein dichter Wald im vollen Grün, durchbrochen von Sonnenstrahlen.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Blume",
+            "Satz": "Eine Blume blüht im Frühling.",
+            "Prompt": "Eine bunte Blume in voller Blüte steht im Zentrum eines blühenden Gartens.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Strand",
+            "Satz": "Ein Strand mit feinem Sand.",
+            "Prompt": "Ein idyllischer Strand mit weißem Sand und klarem blauen Wasser.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Wiese",
+            "Satz": "Eine Wiese voller Wildblumen.",
+            "Prompt": "Eine leuchtende Wiese übersät mit Wildblumen unter einem blauen Himmel.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Hügel",
+            "Satz": "Hügel formen die Landschaft.",
+            "Prompt": "Sanfte Hügel bedeckt mit grünem Gras unter einem weiten Himmel.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Tal",
+            "Satz": "Ein Tal zwischen den Bergen.",
+            "Prompt": "Ein fruchtbares Tal umgeben von hohen Bergen bei Sonnenaufgang.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Ozean",
+            "Satz": "Der Ozean erstreckt sich bis zum Horizont.",
+            "Prompt": "Der endlose Ozean trifft auf einen dramatischen Himmel bei Sonnenuntergang.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Gletscher",
+            "Satz": "Ein Gletscher bewegt sich langsam vorwärts.",
+            "Prompt": "Ein mächtiger Gletscher schlängelt sich durch die Berglandschaft.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Vulkan",
+            "Satz": "Ein Vulkan brodelt ruhig.",
+            "Prompt": "Ein schlafender Vulkan ragt in eine wolkenverhangene Landschaft.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Wüste",
+            "Satz": "Die Wüste ist tagsüber heiß und nachts kalt.",
+            "Prompt": "Die endlose Wüste unter einem glühenden Sonnenuntergang.",
+            "Satzlänge": 8,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Insel",
+            "Satz": "Eine Insel umgeben von klarem Wasser.",
+            "Prompt": "Eine tropische Insel umgeben von kristallklarem Wasser und Korallenriffen.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        }
+    ]
+}

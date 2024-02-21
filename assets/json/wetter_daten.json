@@ -1,0 +1,109 @@
+{
+    "Wetter": [
+        {
+            "Wort": "Regen",
+            "Satz": "Es regnet draußen.",
+            "Prompt": "Regentropfen auf einem Fenster.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Sonne",
+            "Satz": "Die Sonne scheint.",
+            "Prompt": "Sonnenschein über einem Feld.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Schnee",
+            "Satz": "Schnee fällt.",
+            "Prompt": "Eine Schneedecke auf den Straßen.",
+            "Satzlänge": 2,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Wind",
+            "Satz": "Der Wind weht.",
+            "Prompt": "Blätter fliegen im Wind.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Nebel",
+            "Satz": "Nebel bedeckt alles.",
+            "Prompt": "Eine neblige Straße am Morgen.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Gewitter",
+            "Satz": "Ein Gewitter kommt.",
+            "Prompt": "Blitze am dunklen Himmel.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Eis",
+            "Satz": "Eis auf dem See.",
+            "Prompt": "Ein zugefrorener See.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Kälte",
+            "Satz": "Es ist sehr kalt.",
+            "Prompt": "Atem in der kalten Luft.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Hitze",
+            "Satz": "Es ist sehr heiß.",
+            "Prompt": "Die Wüste unter der Mittagssonne.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Wolken",
+            "Satz": "Der Himmel ist bewölkt.",
+            "Prompt": "Viele Wolken am Himmel.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Sturm",
+            "Satz": "Ein Sturm zieht auf.",
+            "Prompt": "Sturmwolken über dem Land.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Hagel",
+            "Satz": "Hagelkörner fallen.",
+            "Prompt": "Hagel schlägt auf den Boden.",
+            "Satzlänge": 2,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Tau",
+            "Satz": "Tau glitzert morgens.",
+            "Prompt": "Tau auf Gräsern.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Frost",
+            "Satz": "Frost bedeckt alles.",
+            "Prompt": "Frostige Fensterscheiben.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Regenbogen",
+            "Satz": "Ein Regenbogen zeigt sich.",
+            "Prompt": "Ein Regenbogen nach dem Regen.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 10
+        }
+    ]
+}

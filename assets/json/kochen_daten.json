@@ -1,0 +1,109 @@
+{
+    "Kochen": [
+        {
+            "Wort": "Pfanne",
+            "Satz": "Die Pfanne ist heiß auf dem Herd.",
+            "Prompt": "Eine heiße Pfanne auf einem eingeschalteten Gasherd mit Öl bereit zum Braten.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Topf",
+            "Satz": "Der Topf kocht auf dem Feuer.",
+            "Prompt": "Ein großer Topf mit kochendem Wasser auf einem lebhaften Feuer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Messer",
+            "Satz": "Das Messer ist scharf.",
+            "Prompt": "Ein scharfes Küchenmesser schneidet durch frisches Gemüse auf einem Schneidebrett.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Gabel",
+            "Satz": "Die Gabel liegt neben dem Teller.",
+            "Prompt": "Eine glänzende Gabel ordentlich platziert neben einem Porzellanteller.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Löffel",
+            "Satz": "Der Löffel rührt in der Suppe.",
+            "Prompt": "Ein großer Löffel rührt in einem Topf mit dampfender Suppe.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Schneidebrett",
+            "Satz": "Das Schneidebrett ist aus Holz.",
+            "Prompt": "Ein robustes Holzschneidebrett bereit für die Zubereitung von Lebensmitteln.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 13
+        },
+        {
+            "Wort": "Mixer",
+            "Satz": "Der Mixer zerkleinert die Zutaten.",
+            "Prompt": "Ein leistungsstarker Mixer verarbeitet Obst und Gemüse zu einem Smoothie.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Ofen",
+            "Satz": "Der Ofen backt einen Kuchen.",
+            "Prompt": "Ein moderner Ofen backt einen Kuchen, sichtbar durch das Glasfenster.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Grill",
+            "Satz": "Der Grill ist für das Barbecue bereit.",
+            "Prompt": "Ein Außengrill beladen mit Fleisch und Gemüse für ein Barbecue.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Kochlöffel",
+            "Satz": "Der Kochlöffel liegt auf dem Küchenregal.",
+            "Prompt": "Ein hölzerner Kochlöffel ruht auf einem stilvollen Küchenregal.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Schüssel",
+            "Satz": "Die Schüssel ist voll mit Salat.",
+            "Prompt": "Eine große Schüssel gefüllt mit einem frischen, bunten Salat.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Sieb",
+            "Satz": "Das Sieb trennt Flüssigkeit von Feststoffen.",
+            "Prompt": "Ein feinmaschiges Sieb hält Pasta, während das Wasser abfließt.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Dampfgarer",
+            "Satz": "Der Dampfgarer bereitet Gemüse zu.",
+            "Prompt": "Ein elektrischer Dampfgarer mit Ebenen für Gemüse und Fisch.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Küchenwaage",
+            "Satz": "Die Küchenwaage misst die Zutaten genau.",
+            "Prompt": "Eine digitale Küchenwaage mit abgemessenen Backzutaten darauf.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Backform",
+            "Satz": "Die Backform ist für den Kuchen.",
+            "Prompt": "Eine runde Backform, eingefettet und bereit für den Kuchenteig.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        }
+    ]
+}

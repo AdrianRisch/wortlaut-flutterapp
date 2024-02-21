@@ -1,0 +1,109 @@
+{
+    "Kleidung": [
+        {
+            "Wort": "Schuhe",
+            "Satz": "Die Schuhe stehen der.",
+            "Prompt": "Ein Paar Schuhe ordentlich vor einer Haustür platziert.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Hose",
+            "Satz": "Die Hose hängt im Schrank.",
+            "Prompt": "Eine Hose hängt sauber auf einem Kleiderbügel im Schrank.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Hemd",
+            "Satz": "Das Hemd wurde frisch gebügelt.",
+            "Prompt": "Ein frisch gebügeltes Hemd liegt auf dem Bügelbrett.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Kleid",
+            "Satz": "Das Kleid ist für den Ball gedacht.",
+            "Prompt": "Ein elegantes Kleid hängt bereit für einen abendlichen Ball.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Rock",
+            "Satz": "Der Rock passt perfekt.",
+            "Prompt": "Ein modischer Rock auf einer Schaufensterpuppe in einem Bekleidungsgeschäft.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Jacke",
+            "Satz": "Die Jacke hält warm im Winter.",
+            "Prompt": "Eine dicke Winterjacke aufgehängt an einem kalten, verschneiten Tag.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Mütze",
+            "Satz": "Die Mütze liegt auf dem Tisch.",
+            "Prompt": "Eine gestrickte Mütze liegt auf einem Holztisch neben einem Fenster.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Schal",
+            "Satz": "Der Schal ist bunt gestreift.",
+            "Prompt": "Ein bunter gestreifter Schal drapiert über einer Stuhllehne.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Handschuhe",
+            "Satz": "Handschuhe sind wichtig beim Skifahren.",
+            "Prompt": "Ein Paar Skihandschuhe liegt bereit auf einer Holzbank im Schnee.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Socken",
+            "Satz": "Die Socken sind warm.",
+            "Prompt": "Weiche, warme Socken auf einem gemütlichen Teppichboden.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Unterwäsche",
+            "Satz": "Neue Unterwäsche wurde gekauft.",
+            "Prompt": "Neue Unterwäsche ordentlich gefaltet in einer Schublade.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Badeanzug",
+            "Satz": "Der Badeanzug trocknet in der Sonne.",
+            "Prompt": "Ein Badeanzug hängt zum Trocknen an einer Wäscheleine im Sommer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Anzug",
+            "Satz": "Der Anzug ist für das Vorstellungsgespräch.",
+            "Prompt": "Ein Geschäftsmann zieht einen eleganten Anzug für ein Vorstellungsgespräch an.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Pullover",
+            "Satz": "Der Pullover ist zu groß.",
+            "Prompt": "Ein zu großer Pullover liegt auf einem Sessel in einem gemütlichen Raum.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "T-Shirt",
+            "Satz": "Das T-Shirt hat ein lustiges Motiv.",
+            "Prompt": "Ein T-Shirt mit einem lustigen Aufdruck auf einem Kleiderständer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        }
+    ]
+}

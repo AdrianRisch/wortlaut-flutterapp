@@ -1,0 +1,109 @@
+{
+    "Tiere": [
+        {
+            "Wort": "Katze",
+            "Satz": "Eine Katze schläft auf dem Sofa.",
+            "Prompt": "Eine Katze schläft auf einem Sofa in einem gemütlichen Zimmer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Hund",
+            "Satz": "Ein Hund spielt im Garten.",
+            "Prompt": "Ein Hund spielt fröhlich in einem sonnigen Garten.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Pferd",
+            "Satz": "Ein Pferd grast auf einer Wiese.",
+            "Prompt": "Ein Pferd grast friedlich auf einer grünen Wiese unter blauem Himmel.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Hase",
+            "Satz": "Ein Hase hüpft im Gras.",
+            "Prompt": "Ein flauschiges Kaninchen hüpft neugierig im grünen Gras.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Fisch",
+            "Satz": "Ein Fisch schwimmt im Aquarium.",
+            "Prompt": "Ein bunter Fisch schwimmt elegant in einem beleuchteten Aquarium.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Vogel",
+            "Satz": "Ein Vogel singt auf dem Baum.",
+            "Prompt": "Ein kleiner Vogel singt melodisch auf dem Ast eines blühenden Baums.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Schmetterling",
+            "Satz": "Ein Schmetterling landet auf einer Blume.",
+            "Prompt": "Ein bunter Schmetterling landet sanft auf einer blühenden Blume im Sonnenlicht.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 13
+        },
+        {
+            "Wort": "Elefant",
+            "Satz": "Ein Elefant badet im Fluss.",
+            "Prompt": "Ein großer Elefant genießt ein erfrischendes Bad in einem breiten Fluss.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Tiger",
+            "Satz": "Ein Tiger schleicht durch den Dschungel.",
+            "Prompt": "Ein majestätischer Tiger schleicht leise durch den dichten Dschungel.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Bär",
+            "Satz": "Ein Bär sucht nach Honig.",
+            "Prompt": "Ein neugieriger Bär sucht in einem Wald nach einem Bienenstock mit Honig.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Frosch",
+            "Satz": "Ein Frosch sitzt auf einem Seerosenblatt.",
+            "Prompt": "Ein grüner Frosch sitzt ruhig auf einem Seerosenblatt in einem Teich.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Eule",
+            "Satz": "Eine Eule ruft in der Nacht.",
+            "Prompt": "Eine weise Eule ruft von einem Baumast aus in einer klaren Nacht.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Hai",
+            "Satz": "Ein Hai schwimmt durch das tiefe Meer.",
+            "Prompt": "Ein beeindruckender Hai gleitet majestätisch durch das dunkelblaue Meer.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Giraffe",
+            "Satz": "Eine Giraffe frisst Blätter von einem hohen Baum.",
+            "Prompt": "Eine hohe Giraffe frisst genüsslich Blätter von der Spitze eines Baumes in der Savanne.",
+            "Satzlänge": 8,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Zebra",
+            "Satz": "Ein Zebra trinkt Wasser am Fluss.",
+            "Prompt": "Ein Zebra beugt sich vorsichtig zum Trinken an einem Fluss in der afrikanischen Wildnis.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        }
+    ]
+}

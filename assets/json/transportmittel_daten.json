@@ -1,0 +1,102 @@
+{
+    "Transportmittel": [
+        {
+            "Wort": "Auto",
+            "Satz": "Ein Auto fährt.",
+            "Prompt": "Ein Auto auf der Straße.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Fahrrad",
+            "Satz": "Ein Fahrrad steht da.",
+            "Prompt": "Ein Fahrrad am Straßenrand.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Bus",
+            "Satz": "Ein Bus hält an.",
+            "Prompt": "Ein Bus an der Haltestelle.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Zug",
+            "Satz": "Ein Zug fährt ab.",
+            "Prompt": "Ein Zug verlässt den Bahnhof.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 3
+        },
+        {
+            "Wort": "Flugzeug",
+            "Satz": "Ein Flugzeug fliegt.",
+            "Prompt": "Ein Flugzeug am Himmel.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Motorrad",
+            "Satz": "Ein Motorrad fährt die Straße entlang.",
+            "Prompt": "Ein Motorrad fährt schnell auf einer kurvigen Landstraße.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Roller",
+            "Satz": "Ein Roller steht auf dem Bürgersteig.",
+            "Prompt": "Ein elektrischer Roller geparkt auf einem städtischen Bürgersteig.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "U-Bahn",
+            "Satz": "Eine U-Bahn fährt los.",
+            "Prompt": "Eine U-Bahn fährt vom Bahnsteig ab",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Traktor",
+            "Satz": "Ein Traktor arbeitet auf dem Feld.",
+            "Prompt": "Ein Traktor pflügt ein Feld auf dem Land bei Sonnenaufgang.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Segelboot",
+            "Satz": "Ein Segelboot gleitet über das Wasser.",
+            "Prompt": "Ein kleines Segelboot gleitet sanft über einen ruhigen See.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Heißluftballon",
+            "Satz": "Ein Heißluftballon schwebt am Himmel.",
+            "Prompt": "Ein bunter Heißluftballon schwebt hoch im Himmel über einer Landschaft.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 14
+        },
+        {
+            "Wort": "Rakete",
+            "Satz": "Eine Rakete startet ins Weltall.",
+            "Prompt": "Eine Rakete startet mit voller Kraft von einer Startrampe ins Weltall.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Helikopter",
+            "Satz": "Ein Helikopter landet.",
+            "Prompt": "Ein Helikopter im Landeanflug auf einem Hubschrauberlandeplatz in der Stadt.",
+            "Satzlänge": 3,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Fahrradtaxi",
+            "Satz": "Ein Fahrradtaxi fährt durch die Altstadt.",
+            "Prompt": "Ein Fahrradtaxi navigiert geschickt durch die engen Straßen einer historischen Altstadt.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 11
+        }
+    ]
+}

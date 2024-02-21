@@ -1,0 +1,109 @@
+{
+    "Büro": [
+        {
+            "Wort": "Stift",
+            "Satz": "Der Stift liegt auf dem Schreibtisch.",
+            "Prompt": "Ein Stift liegt auf einem organisierten Schreibtisch neben einem Notizbuch.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Radiergummi",
+            "Satz": "Der Radiergummi entfernt Fehler.",
+            "Prompt": "Ein Radiergummi liegt auf einem Blatt Papier mit Bleistiftmarkierungen.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Tacker",
+            "Satz": "Der Tacker hält die Seiten zusammen.",
+            "Prompt": "Ein Tacker auf einem Stapel von Dokumenten auf einem Bürotisch.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Notizbuch",
+            "Satz": "Das Notizbuch ist voller Ideen.",
+            "Prompt": "Ein offenes Notizbuch mit Notizen und Skizzen auf einem Schreibtisch.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Kalender",
+            "Satz": "Der Kalender zeigt wichtige Termine an.",
+            "Prompt": "Ein Wandkalender markiert mit verschiedenen Terminen und Ereignissen.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Schreibtisch",
+            "Satz": "Der Schreibtisch ist ordentlich arrangiert.",
+            "Prompt": "Ein großer, ordentlich organisierter Schreibtisch in einem hellen Büro.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 12
+        },
+        {
+            "Wort": "Stuhl",
+            "Satz": "Der Stuhl ist bequem.",
+            "Prompt": "Ein moderner Bürostuhl vor einem Schreibtisch mit einem Computer.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Computer",
+            "Satz": "Der Computer ist das Herzstück des Büros.",
+            "Prompt": "Ein Desktop-Computer mit zwei Monitoren auf einem Schreibtisch.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Drucker",
+            "Satz": "Der Drucker produziert wichtige Dokumente.",
+            "Prompt": "Ein Multifunktionsdrucker in der Ecke eines Büros neben einem Fenster.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Papier",
+            "Satz": "Papier wird für Notizen verwendet.",
+            "Prompt": "Ein Stapel weißes Papier liegt bereit auf einem Schreibtisch neben einem Stift.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Klammer",
+            "Satz": "Die Klammer hält die Papiere zusammen.",
+            "Prompt": "Büroklammern in einer kleinen Schale auf einem organisierten Schreibtisch.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Brieföffner",
+            "Satz": "Der Brieföffner liegt neben der Post.",
+            "Prompt": "Ein eleganter Brieföffner neben einem Stapel von Briefen auf einem Tisch.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Locher",
+            "Satz": "Der Locher ist unerlässlich für die Ablage.",
+            "Prompt": "Ein Locher steht auf einem Schreibtisch neben einem Ordner mit Dokumenten.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Marker",
+            "Satz": "Der Marker hebt wichtige Informationen hervor.",
+            "Prompt": "Leuchtmarker liegen auf einem Schreibtisch neben einigen Unterlagen.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 6
+        },
+        {
+            "Wort": "Lineal",
+            "Satz": "Das Lineal wird für präzise Linien verwendet.",
+            "Prompt": "Ein Lineal liegt auf einem technischen Zeichnung auf einem Schreibtisch.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 6
+        }
+    ]
+}

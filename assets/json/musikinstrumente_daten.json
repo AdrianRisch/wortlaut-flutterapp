@@ -1,0 +1,109 @@
+{
+    "Musikinstrumente": [
+        {
+            "Wort": "Gitarre",
+            "Satz": "Eine Gitarre lehnt an der Wand.",
+            "Prompt": "Eine akustische Gitarre lehnt neben einem Fenster in einem sonnendurchfluteten Raum.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Klavier",
+            "Satz": "Das Klavier wartet auf seinen Spieler.",
+            "Prompt": "Ein glänzendes schwarzes Piano steht bereit in einem eleganten Musikzimmer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Schlagzeug",
+            "Satz": "Das Schlagzeug steht auf der Bühne bereit.",
+            "Prompt": "Ein Schlagzeug komplett aufgebaut auf einer Bühne vor einem Konzert.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Violine",
+            "Satz": "Die Violine erzeugt wunderschöne Melodien.",
+            "Prompt": "Eine Violine liegt auf einem alten Holztisch neben Notenblättern.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Flöte",
+            "Satz": "Eine Flöte klingt schön",
+            "Prompt": "Eine Querflöte liegt auf einem samtbezogenen Kasten in einem ruhigen Raum.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Saxophon",
+            "Satz": "Das Saxophon heizt die Atmosphäre auf.",
+            "Prompt": "Ein glänzendes Saxophon steht im Rampenlicht auf einer Jazzbühne.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Trompete",
+            "Satz": "Die Trompete gibt das Signal.",
+            "Prompt": "Eine Trompete in den Händen eines Spielers, bereit für das erste Signal.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Cello",
+            "Satz": "Das Cello hat einen tiefen Klang.",
+            "Prompt": "Ein Cello wartet in einem stillen Raum, beleuchtet durch das Fensterlicht.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Klarinette",
+            "Satz": "Die Klarinette fügt dem Orchester Klarheit bei.",
+            "Prompt": "Eine Klarinette liegt auf einem Ständer neben einem Notenständer.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Harfe",
+            "Satz": "Die Harfe spielt himmlische Melodien.",
+            "Prompt": "Eine goldene Harfe steht in der Ecke eines hellen Raumes.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Akkordeon",
+            "Satz": "Das Akkordeon bringt Leben in die Volksmusik.",
+            "Prompt": "Ein Akkordeon bereit für ein Fest, platziert auf einem rustikalen Tisch.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Ukulele",
+            "Satz": "Die Ukulele bringt Freude mit ihren Klängen.",
+            "Prompt": "Eine bunte Ukulele liegt auf einem Sandstrand nahe dem Meer.",
+            "Satzlänge": 7,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Mundharmonika",
+            "Satz": "Die Mundharmonika klingt schön",
+            "Prompt": "Eine Mundharmonika liegt auf einem Felsen im Freien, umgeben von Natur.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 13
+        },
+        {
+            "Wort": "Kontrabass",
+            "Satz": "Der Kontrabass gibt den Rhythmus vor.",
+            "Prompt": "Ein Kontrabass steht im Mittelpunkt eines Jazzclubs, umgeben von Musikern.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Blockflöte",
+            "Satz": "Die Blockflöte ist ein Einstiegsinstrument.",
+            "Prompt": "Eine Blockflöte liegt auf einem Schreibtisch, neben einem offenen Notenbuch.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        }
+    ]
+}

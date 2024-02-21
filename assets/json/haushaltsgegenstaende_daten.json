@@ -1,0 +1,109 @@
+{
+    "Haushaltsgegenstände": [
+        {
+            "Wort": "Lampe",
+            "Satz": "Die Lampe spendet warmes Licht.",
+            "Prompt": "Eine eingeschaltete Lampe auf einem Nachttisch neben einem gemütlichen Bett.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Stuhl",
+            "Satz": "Der Stuhl steht neben dem Tisch.",
+            "Prompt": "Ein hölzerner Stuhl steht neben einem rustikalen Esstisch.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Tisch",
+            "Satz": "Auf dem Tisch steht eine Vase.",
+            "Prompt": "Ein großer Tisch mit einer blühenden Vase in der Mitte eines Esszimmers.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 5
+        },
+        {
+            "Wort": "Bett",
+            "Satz": "Das Bett ist frisch bezogen.",
+            "Prompt": "Ein frisch bezogenes Bett in einem hellen, einladenden Schlafzimmer.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Sofa",
+            "Satz": "Das Sofa lädt zum Entspannen ein.",
+            "Prompt": "Ein gemütliches Sofa mit Kissen in einem modernen Wohnzimmer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 4
+        },
+        {
+            "Wort": "Spiegel",
+            "Satz": "Der Spiegel hängt an der Wand.",
+            "Prompt": "Ein großer Spiegel hängt an der Wand eines stilvollen Badezimmers.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Teppich",
+            "Satz": "Der Teppich ist weich.",
+            "Prompt": "Ein bunter, flauschiger Teppich liegt in der Mitte eines Kinderzimmers.",
+            "Satzlänge": 4,
+            "Buchstabenlänge": 7
+        },
+        {
+            "Wort": "Fernseher",
+            "Satz": "Der Fernseher läuft den ganzen Abend.",
+            "Prompt": "Ein großer Flachbildfernseher zeigt einen Film in einem dunklen Wohnzimmer.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 9
+        },
+        {
+            "Wort": "Kühlschrank",
+            "Satz": "Der Kühlschrank ist voll mit Lebensmitteln.",
+            "Prompt": "Ein offener Kühlschrank, gefüllt mit frischen Lebensmitteln und Getränken.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Mikrowelle",
+            "Satz": "Die Mikrowelle erwärmt das Essen schnell.",
+            "Prompt": "Eine Mikrowelle auf der Küchenarbeitsplatte mit einem Teller darin.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Waschmaschine",
+            "Satz": "Die Waschmaschine läuft am Wochenende.",
+            "Prompt": "Eine Waschmaschine voller Wäsche in einem hellen Waschraum.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 13
+        },
+        {
+            "Wort": "Trockner",
+            "Satz": "Der Trockner macht die Wäsche weich.",
+            "Prompt": "Ein Wäschetrockner in Betrieb in einem sauberen Wäscheraum.",
+            "Satzlänge": 6,
+            "Buchstabenlänge": 8
+        },
+        {
+            "Wort": "Staubsauger",
+            "Satz": "Der Staubsauger reinigt den Teppich.",
+            "Prompt": "Ein Staubsauger in Aktion, während er einen Teppich in einem Wohnzimmer reinigt.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 11
+        },
+        {
+            "Wort": "Bügeleisen",
+            "Satz": "Das Bügeleisen glättet die Falten.",
+            "Prompt": "Ein heißes Bügeleisen auf einem Bügelbrett mit einem Hemd darauf.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 10
+        },
+        {
+            "Wort": "Mixer",
+            "Satz": "Der Mixer bereitet Smoothies zu.",
+            "Prompt": "Ein Mixer auf einer Küchenarbeitsplatte, umgeben von frischem Obst für Smoothies.",
+            "Satzlänge": 5,
+            "Buchstabenlänge": 5
+        }
+    ]
+}
